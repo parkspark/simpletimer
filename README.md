@@ -1,1 +1,1 @@
-# simpletimer
+simple shutdown system
